@@ -1,4 +1,4 @@
-Use npm install react-select --save for react-select to work.
+Use ### `npm install react-select --save` for react-select to work.
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
