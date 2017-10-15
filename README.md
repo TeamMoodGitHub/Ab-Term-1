@@ -12,7 +12,7 @@ And to start working on the project on react and view the pages on the computer.
 ```
 npm start 
 ```
-###Known Bugs:
+### Known Bugs:
 Dropdown lists will not select when a time zone is picked.
 
 
